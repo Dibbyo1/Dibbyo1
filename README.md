@@ -8,8 +8,7 @@ I enjoy working with modern frameworks, databases, and cloud technologies to cre
 ## 🛠️ Skills & Technologies  
 
 **Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
