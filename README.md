@@ -16,7 +16,6 @@ I enjoy working with modern frameworks, databases, and cloud technologies to cre
 
 ## 📮 How to Reach Me  
 
-**Email:** [dibbyo.saha@torontomu.ca](mailto:dibbyo.saha@torontomu.ca)  
 **LinkedIn:** [Dibbyo Saha](https://www.linkedin.com/in/dibbyosaha)  
 **Portfolio:** [Dibbyo Saha](https://https://dibbyosaha.github.io/)  
 
