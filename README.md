@@ -3,8 +3,6 @@
 I am a passionate software developer with experience in full-stack development, system design, and building practical applications that make an impact.  
 I enjoy working with modern frameworks, databases, and cloud technologies to create solutions that are scalable and user-friendly.  
 
----
-
 ## 🛠️ Skills & Technologies  
 
 **Languages & Frameworks:**  
@@ -16,13 +14,10 @@ I enjoy working with modern frameworks, databases, and cloud technologies to cre
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white)![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoftsharepoint&logoColor=white)  
 
----
-
 ## 📮 How to Reach Me  
 
 - **Email:** [dibbyo.saha@torontomu.ca](mailto:dibbyo.saha@torontomu.ca)  
 - **LinkedIn:** [Dibbyo Saha](https://www.linkedin.com/in/dibbyosaha)  
 - **Portfolio:** [Dibbyo Saha](https://https://dibbyosaha.github.io/)  
 
----
 ⭐️ Feel free to check out my repositories and connect with me!
